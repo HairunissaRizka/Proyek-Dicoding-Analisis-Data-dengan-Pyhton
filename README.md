@@ -1,1 +1,1 @@
-# Proyek-Dicoding-Analisis-Data-dengan-Pyhton
+# Proyek-Dicoding-Analisis-Data-dengan-Python
